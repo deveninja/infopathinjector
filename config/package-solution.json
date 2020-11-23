@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bernhardt-app-infopath-injection-client-side-solution",
+    "id": "78e2ad07-dca0-4853-b36c-cc675e5ce8bd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/bernhardt-app-infopath-injection.sppkg"
+  }
+}
